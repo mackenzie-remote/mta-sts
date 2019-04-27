@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: smtp.triedby12.co.uk
 max_age: 600
