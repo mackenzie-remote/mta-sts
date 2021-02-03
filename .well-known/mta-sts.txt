@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 mx: smtp.triedby12.co.uk
 mx: mx.amen6.com
-max_age: 7776000
+max_age: 86400
